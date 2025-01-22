@@ -31,21 +31,13 @@ This project uses "The Movies Dataset" which contains metadata for thousands of 
 
 1. Clone the repository
     ```
-    git clone https://github.com/your-username/movie-recommendation-system.git
+    git clone https://github.com/ngyathin16/movie-recommendation-system.git
     ```
 
 2. Install required packages
     ```
     pip install pandas numpy scikit-learn
     ```
-
-## Project Structure
-movie-recommendation-system/
-│
-├── keywords_based.py # Keywords-based recommendation implementation
-├── requirements.txt # Project dependencies
-└── README.md # Project documentation
-
 
 ## Contributing
 
